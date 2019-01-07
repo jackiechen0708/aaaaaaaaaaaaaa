@@ -1,0 +1,4 @@
+age,gender,education,condition,position,selected urn,result
+12,Male,Postgraduate or above,100,0,1,blue
+21,Male,Postgraduate or above,10,0,0,red
+22,Male,Middle school or below,2,0,1,red
